@@ -1,0 +1,2 @@
+# SlashApp
+Repositorio AppHibrido
